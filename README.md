@@ -1,3 +1,41 @@
-# Presentation_website
+# AI发展史展示网站
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/lyq1997lkj/Presentation_website)
+## 项目简介
+这是一个展示人工智能(AI)发展历程的网站项目。
+
+## 功能特点
+- 交互式时间线展示AI发展历史
+- 重要事件详细介绍
+- 响应式设计，支持多设备浏览
+- 简洁直观的用户界面
+
+## 技术栈
+- HTML5
+- CSS3
+- JavaScript
+- React.js
+
+## 安装说明
+1. 克隆项目到本地
+\`\`\`bash
+git clone [项目地址]
+\`\`\`
+
+2. 安装依赖
+\`\`\`bash
+npm install
+\`\`\`
+
+3. 运行项目
+\`\`\`bash
+npm start
+\`\`\`
+
+## 使用说明
+- 访问 \`http://localhost:3000\` 即可查看网站
+- 滚动时间线可查看不同时期的AI发展事件
+- 点击事件卡片可查看详细信息
+
+
+## 许可证
+MIT License
